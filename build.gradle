@@ -2,7 +2,11 @@ plugins {
     id "org.jetbrains.kotlin.jvm" version "1.6.20-RC2"
 }
 
+<<<<<<< HEAD
 group 'ru.netology'
+=======
+group 'org.example'
+>>>>>>> base/master
 version '1.0-SNAPSHOT'
 
 repositories {
