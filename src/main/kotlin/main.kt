@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-fun main (){
-=======
 fun main() {
     println("Сумма коммисии: " + CardTransmitCommission(maestro, sumTranscent = 50))
     println("Сумма коммисии: " + CardTransmitCommission(mastercard, 36000, 50))
@@ -24,5 +21,4 @@ fun CardTransmitCommission(cardType: String = "Mastercard", previousTranscend: I
     }
     val finalsum: Double = (commission.toDouble()) / 100
     return finalsum
->>>>>>> base/master
 }
