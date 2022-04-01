@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-03-31T22:44:21" hostname="DESKTOP-OFFTFJC" time="0.01">
+  <properties/>
+  <testcase name="getMir" classname="MainKtTest" time="0.008"/>
+  <testcase name="getVisa" classname="MainKtTest" time="0.0"/>
+  <testcase name="main" classname="MainKtTest" time="0.002"/>
+  <testcase name="cardTransmitCommission" classname="MainKtTest" time="0.0"/>
+  <testcase name="getMaestro" classname="MainKtTest" time="0.0"/>
+  <testcase name="getMastercard" classname="MainKtTest" time="0.0"/>
+  <testcase name="getVkpay" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
